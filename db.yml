@@ -1,0 +1,9 @@
+
+# for registry development
+norspis:
+  host: db
+  name: NorspisRapporteket
+  user: root
+  pass: root
+  disp: ForNorspisDevOnly
+
