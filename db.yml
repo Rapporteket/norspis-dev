@@ -2,7 +2,7 @@
 # for registry development
 norspis:
   host: db
-  name: NorspisRapporteket
+  name: NorSpisReportDataStaging
   user: root
   pass: root
   disp: ForNorspisDevOnly
